@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233345350967-8b3ckvhftjmnra9k4o26pvc09li6fh5j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233345350967-8b3ckvhftjmnra9k4o26pvc09li6fh5j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBc-2jp8ticK7aWeqkYk0vm9BiqSwr025M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233345350967</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.earnage</string>
+	<key>PROJECT_ID</key>
+	<string>earnage-566e7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>earnage-566e7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233345350967:ios:d5cae0cbfa997f98b06eb2</string>
+</dict>
+</plist>

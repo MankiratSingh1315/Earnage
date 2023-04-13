@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "233345350967",
+    "project_id": "earnage-566e7",
+    "storage_bucket": "earnage-566e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233345350967:android:83a109c4f0657ef2b06eb2",
+        "android_client_info": {
+          "package_name": "com.brawlers.earnage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233345350967-aibr217c7pq81f1dehkc4ai5ucg625jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnjf97Q_2n0uJGpK02OCFrR4JC_D0EZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233345350967-aibr217c7pq81f1dehkc4ai5ucg625jd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233345350967-8b3ckvhftjmnra9k4o26pvc09li6fh5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.earnage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233345350967:android:cc7ed1b6d2c79311b06eb2",
+        "android_client_info": {
+          "package_name": "com.example.earnage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233345350967-aibr217c7pq81f1dehkc4ai5ucg625jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnjf97Q_2n0uJGpK02OCFrR4JC_D0EZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233345350967-aibr217c7pq81f1dehkc4ai5ucg625jd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233345350967-8b3ckvhftjmnra9k4o26pvc09li6fh5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.earnage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
